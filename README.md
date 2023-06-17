@@ -1,5 +1,7 @@
 # demo-project
 
+This project used in-memory h2 database
+
 Swagger URL
 http://localhost:8080/swagger-ui/index.html
 
